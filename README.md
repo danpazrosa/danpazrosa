@@ -36,8 +36,6 @@ Estou estudando e enriquecendo meu portfólio para compravar minhas habilidades 
 
 ## Atividades
 
-![Priscila's GitHub stats](https://github-readme-stats.vercel.app/api?username=danpazrosa&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danpazrosa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 

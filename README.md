@@ -15,7 +15,6 @@ Estou estudando e enriquecendo meu portfólio para compravar minhas habilidades 
 
 ### Frameworks
 
-[![Robot Framework](https://img.shields.io/badge/Robot_Framework-000000?style=for-the-badge&logo=robot-framework&logoColor=white)](https://robotframework.org/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 
 
